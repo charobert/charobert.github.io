@@ -41,3 +41,20 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom CSS to hide Academic Pages banner */
+.notice--info {
+  display: none !important;
+}
+
+/* Alternative selectors to try if the above doesn't work */
+.page__footer .notice,
+.page__footer .notice--info,
+div[class*="notice"] {
+  display: none !important;
+}
+
+/* Hide any fixed bottom banners */
+div[style*="position: fixed"][style*="bottom"] {
+  display: none !important;
+}
