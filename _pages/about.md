@@ -1,10 +1,9 @@
 ---
-permalink: /
-title: ""
+layout: single
+permalink: /about/
+title: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-Welcome! 
+Welcome! I'm Charlotte Robert, an economist at Heidelberg University and Deutsche Bundesbank.
+
