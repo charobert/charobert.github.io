@@ -58,3 +58,8 @@ div[class*="notice"] {
 div[style*="position: fixed"][style*="bottom"] {
   display: none !important;
 }
+
+/* Hide the sidebar avatar */
+.sidebar .author-profile img.avatar {
+    display: none !important;
+}
