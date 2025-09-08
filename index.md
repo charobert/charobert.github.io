@@ -10,7 +10,7 @@ redirect_from:
   <div style="flex: 1;">
     <h1></h1>
     
-    <p>I'm a Ph.D. student in Economics at Heidelberg University, and a Research Assistant at the Deutsche Bundesbank, specializing in international development economics and survey data.</p>
+    <p>My name is Charlotte Robert, I am a Ph.D. student in Economics at Heidelberg University, and a Research Assistant at the Deutsche Bundesbank, specializing in international development economics and survey data.</p>
     
     <h2>Research Interests</h2>
     <ul>
