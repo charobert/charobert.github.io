@@ -6,7 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to Charlotte Robert's Academic Website
+<div style="float: right; margin: 0 0 20px 20px; text-align: center;">
+  <img src="/images/CV picture.jpg" alt="Charlotte Robert" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; border: 3px solid #ccc;">
+</div>
 
 I'm a Ph.D. student at Heidelberg University and a Research Assistant at the Deutsche Bundesbank. 
 
