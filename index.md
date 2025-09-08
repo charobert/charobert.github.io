@@ -8,19 +8,21 @@ redirect_from:
 
 <div style="display: flex; align-items: flex-start; gap: 30px; margin-bottom: 30px;">
   <div style="flex: 1;">
-    <h1>Welcome to Charlotte Robert's Academic Website</h1>
+    <h1></h1>
     
-    <p>I'm an economist at Heidelberg University and Deutsche Bundesbank, specializing in international development economics.</p>
+    <p>I'm a Ph.D. student in Economics at Heidelberg University, and a Research Assistant at the Deutsche Bundesbank, specializing in international development economics and survey data.</p>
     
     <h2>Research Interests</h2>
     <ul>
       <li>International Development Economics</li>
-      <li>[Add your other research areas here]</li>
+      <li>Foreign aid</li>
+      <li>Poverty and inequality</li>
+      <li>Remote sensing and spatial analysis</li>
     </ul>
     
     <h2>Latest Updates</h2>
     <ul>
-      <li>[Any recent news, publications, or announcements]</li>
+      <li>You can now download the full <a href="https://godad.me/">GODAD</a>!</li>
     </ul>
   </div>
   
