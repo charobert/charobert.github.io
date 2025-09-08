@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Other activities"
 permalink: /other-activities/
 author_profile: true

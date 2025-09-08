@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Data"
 permalink: /data/
 author_profile: true
