@@ -10,7 +10,9 @@ author_profile: true
 ### Wedded to Prosperity? Informal Influence and Regional Favoritism
 _with [Pietro Bomprezzi](https://sites.google.com/view/pietrobomprezzi/home), [Axel Dreher](https://axel-dreher.de/), [Andreas Fuchs](https://andreas-fuchs.weebly.com/), [Teresa Hailer](https://www.awi.uni-heidelberg.de/en/professorships/international-development-economics/teresa-hailer-ma), [Andreas Kammerlander](https://iep.uni-freiburg.de/copy_of_team/andreas-kammerlander-m-sc%202/andreas-kammerlander-m-sc), [Lennart Kaplan](https://sites.google.com/view/lennart-kaplan/home), [Silvia Marchesi](https://sites.google.com/site/ssilviamarchesi/home), [Tania Masi](https://sites.google.com/view/taniamasi), [Kerstin Unfried](https://sites.google.com/view/kerstin-unfried/home)_
 [PDF link](https://www.ifo.de/en/cesifo/publications/2024/working-paper/wedded-prosperity-informal-influence-and-regional-favoritism) 
+
 [Publicly available data (PLAD)](https://plad.me/)
+
 [Publicly available data (GODAD)](https://godad.me/)
 
 **Abstract:**  
@@ -20,6 +22,7 @@ This paper explores the informal influence of political leaders' spouses on the 
 
 ### Where is Poverty Concentrated? New Evidence based on Internationally Consistent Urban and Poverty Measurements
 _with [Shohei Nakamura](https://sites.google.com/site/shoheinakamuraspage/home), [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/), [Mark Roberts](https://sites.google.com/view/mark-roberts/home), [Benjamin P. Stewart](https://www.worldbank.org/en/about/people/b/benjamin-p-stewart#1), [Slava Yakubenko](https://sites.google.com/view/yakubenko/home)_ 
+
 [PDF link](https://documents1.worldbank.org/curated/en/099823311272312886/pdf/IDU047ac48f0062ea04222098780cda70c42240d.pdf) 
 
 
